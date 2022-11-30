@@ -603,10 +603,26 @@ header .social-icon li a
 		{
 			font-size: 32px;
 		}
-		.navbar-brand
+		.navbar-default .navbar-brand
 	{
 		font-size: 20px;
 	}
 
 }
+
+@media only screen and ( max-width: 300px ) {
+
+	.navbar-brand{
+		font-size: 20px;
+	}
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 406px) {
+
+	a{
+		font-size: 20px;
+	}
+}
+
 /* end 360 media quires */

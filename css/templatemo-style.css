@@ -509,6 +509,10 @@ header .social-icon li a
 	#portfolio .portfolio-thumb .portfolio-overlay {
 		padding: 0px 8px;
 	}
+	.navbar-brand
+	{
+		font-size: 20px;
+	}
 }
 
 /* start 980 media quires */
@@ -531,6 +535,10 @@ header .social-icon li a
 		padding: 40px 10px 20px 20px;
 		-webkit-transition: all 0.4s ease-in-out;
 		        transition: all 0.4s ease-in-out;
+	}
+	.navbar-brand
+	{
+		font-size: 20px;
 	}
 
 }
@@ -562,6 +570,10 @@ header .social-icon li a
 	.navbar-toggle {
 		margin-top: 15px;
 	}
+	.navbar-brand
+	{
+		font-size: 20px;
+	}
 	.navbar-collapse {
 		max-height: 300px;
 		overflow-y: auto;
@@ -591,6 +603,10 @@ header .social-icon li a
 		{
 			font-size: 32px;
 		}
+		.navbar-brand
+	{
+		font-size: 20px;
+	}
 
 }
 /* end 360 media quires */

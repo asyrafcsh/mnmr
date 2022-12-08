@@ -619,3 +619,21 @@ header .social-icon li a
 }
 
 /* end 360 media quires */
+
+.whatsapp{
+
+font-family: "Gilroy",Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #2d9c3c;
+    border-radius: 126px;
+    padding: 10px 70px;
+
+}
+
+.QR
+	{
+		margin-bottom: 20px;
+		padding-left: 20px;
+		margin-left: 30px;
+	}
